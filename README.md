@@ -1,3 +1,13 @@
+
+Open WebUI Fork - Experimental Improvements
+This project is a fork of the original Open WebUI.
+
+⚠️ Experimental Version ⚠️
+This repository is experimental and is aimed at potential improvements. Features and implementations may change frequently as we explore new enhancements.
+
+_______________________________________________
+
+
 # Open WebUI (Formerly Ollama WebUI) 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
